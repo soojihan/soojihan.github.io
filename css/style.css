@@ -181,7 +181,6 @@ header .intro-text {
 	padding: 120px 0;
 }
 #about .about-text {
-	font-size: 12px;
 	margin-left: 10px;
 	text-align: left;
 }
@@ -195,6 +194,7 @@ header .intro-text {
 	margin-top: 40px;
 	margin-bottom: 30px;
 	line-height: 22px;
+	font-size: 12px;
 }
 
 /* Research Section */
@@ -202,7 +202,6 @@ header .intro-text {
 	padding: 120px 0;
 }
 #research .research-text {
-	font-size: 12px;
 	margin-left: 10px;
 	text-align: left;
 }
@@ -216,6 +215,7 @@ header .intro-text {
 	margin-top: 40px;
 	margin-bottom: 30px;
 	line-height: 22px;
+	font-size: 12px;
 }
 #research h1 {
 	margin-top: 40px;
