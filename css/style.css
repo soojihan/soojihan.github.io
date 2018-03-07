@@ -216,6 +216,7 @@ header .intro-text {
 	margin-bottom: 30px;
 	line-height: 22px;
 	font-size: 16px;
+	text-align: justify;
 }
 #research h1 {
 	margin-top: 40px;
