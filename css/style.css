@@ -182,7 +182,7 @@ header .intro-text {
 }
 #about .about-text {
 	margin-left: 10px;
-	text-align: center;
+	text-align: left;
 }
 #about img {
 	border-radius: 50%;
