@@ -377,6 +377,7 @@ ol.type li a:hover {
 	text-align: center;
 }
 #contact img {
+	width: 1.2em;
 	height: 1.2em;
 	display: inline-block;
 }
