@@ -376,6 +376,16 @@ ol.type li a:hover {
 	font-size: 16px;
 	text-align: center;
 }
+
+#contact h {
+	margin-top: 40px;
+	margin-bottom: 30px;
+	line-height: 22px;
+	font-size: 16px;
+	text-align: left;
+}
+
+
 #contact img {
 	width: 1.2em;
 	height: 1.2em;
