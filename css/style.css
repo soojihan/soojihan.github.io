@@ -31,7 +31,7 @@ p.intro {
 	line-height: 24px;
 }
 a {
-	color: #696969;
+	color: #6C8181;
 }
 a:hover, a:focus {
 	text-decoration: none;
@@ -379,7 +379,7 @@ ol.type li a:hover {
 #contact img {
 	width: 1.2em;
 	height: 1.2em;
-	display: inline-block;
+	display: inline;
 }
 
 #contact a:hover {
