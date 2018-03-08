@@ -389,6 +389,7 @@ ol.type li a:hover {
 #contact img {
 	width: 1.2em;
 	height: 1.2em;
+	border-radius: 0;
 	display: inline;
 }
 
