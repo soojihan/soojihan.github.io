@@ -202,27 +202,27 @@ header .intro-text {
 }
 
 /* Research Section */
-#research {
+#publications {
 	padding: 120px 0;
 }
-#research .research-text {
+#publications .publication-text {
 	margin-left: 10px;
 	text-align: left;
 }
-#research img {
+#publications img {
 	border-radius: 50%;
 	width: 160px;
 	height: 160px;
 	display: inline-block;
 }
-#research p {
+#publications p {
 	margin-top: 40px;
 	margin-bottom: 30px;
 	line-height: 22px;
 	font-size: 16px;
 	text-align: justify;
 }
-#research h1 {
+#publications h1 {
 	margin-top: 40px;
 	margin-bottom: 30px;
 	line-height: 22px;
