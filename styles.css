@@ -7,7 +7,7 @@ img {
 /* Whole document: */
 body{
   font-size: 14pt;
-  margin: 100pt; /* Added margin between navbar and body */
+  margin: 200pt; /* Added margin between navbar and body */
 }
 
 .navbar-brand {
