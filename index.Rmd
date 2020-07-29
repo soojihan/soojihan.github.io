@@ -1,0 +1,13 @@
+---
+title: "About"
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+<img src="images/profile.jpg" alt="Avatar" align="right">
+
+
+My interests lie in natural language processing (NLP), machine learning and data science -- particularly, the development of human-like, affective and multimodal dialogue systems that demostrate commonsense reasoning. 
+
+I obtained my PhD degree in computer science from the University of Sheffield<br>under the supervision of Prof. Fabio Ciravegna. 
+
+
