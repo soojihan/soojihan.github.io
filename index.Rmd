@@ -1,5 +1,5 @@
 
-<link rel="stylesheet" href="styles.css" type="text/css">
+
 <img src="images/profile.jpg" alt="Avatar" align="right" id='img1'>
 
 Research associate in the [Organisations, Information and Knowledge (OAK) group](https://oak-sheffield.weebly.com/),<br> part of the Department of Computer Science of the University of Sheffield in the UK.
