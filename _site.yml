@@ -3,9 +3,9 @@ output_dir: "."
 navbar:
   title: "Sooji Han"
   left:
-    - text: "About"
-      href: about.html
-    - text: "Publications"
+    - text: "about"
+      href: index.html
+    - text: "publications"
       href: publications.html
 output:
   html_document:

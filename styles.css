@@ -18,7 +18,7 @@
 /* Whole document: */
 body{
   font-size: 14pt;
-  margin: 100pt; /* Added margin between navbar and body */
+  margin: 200pt; /* Added margin between navbar and body */
 }
 
 /* Adjust font size for years */
@@ -68,7 +68,7 @@ body{
   margin-top: 45px;
 }
 
-
+/*
 .navbar.navbar-default {
     background-color: #99ccff;
     border: 0;
@@ -81,7 +81,9 @@ body{
     -webkit-box-shadow: none;
     box-shadow: none;
 }
+*/
 
+/* hyperlink color */
 a {
 color: #45ADA8;
 }
