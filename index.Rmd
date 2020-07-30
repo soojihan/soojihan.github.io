@@ -1,13 +1,26 @@
----
-title: "About"
----
 
 <link rel="stylesheet" href="styles.css" type="text/css">
-<img src="images/profile.jpg" alt="Avatar" align="right">
+<img src="images/profile.jpg" alt="Avatar" align="right" id='img1'>
 
+Research associate in the [Organisations, Information and Knowledge (OAK) group](https://oak-sheffield.weebly.com/),<br> part of the Department of Computer Science of the University of Sheffield in the UK.
 
-My interests lie in natural language processing (NLP), machine learning and data science -- particularly, the development of human-like, affective and multimodal dialogue systems that demostrate commonsense reasoning. 
+My interests lie in natural language processing (NLP), NLP for social media,<br> machine learning and data science — particularly, the development of human-like, affective and multimodal dialogue systems that demostrate commonsense reasoning. 
 
-I obtained my PhD degree in computer science from the University of Sheffield<br>under the supervision of Prof. Fabio Ciravegna. 
+I obtained my PhD degree in computer science from the University of Sheffield<br>under the supervision of [Prof. Fabio Ciravegna](https://staffwww.dcs.shef.ac.uk/people/F.Ciravegna/Fabio_Ciravegna/About.html). I researched how to characterise<br> rumours and their spreading on social media and how to identify them in the early<br> stages of the diffusion of real-world events.
+<br>
+<br>
+<br>
 
+<div>
+ <img src="images/mailto.png" id='img2'>
+  <span style="line-height:20px;">&nbsp;[suji.han.x@gmail.com](suji.han.x@gmail.com)</span>
+</div>
+<div>
+ <img src="images/github.png" id='img2'>
+  <span style="line-height:20px;">&nbsp;[soojihan](http://github.com/soojihan)</span>
+</div>
+<div>
+ <img src="images/linkedin.png" id='img2'>
+  <span style="line-height:20px;">&nbsp;[soojihan](ttps://www.linkedin.com/in/soojihan/)</span>
+</div>
 

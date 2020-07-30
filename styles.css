@@ -1,7 +1,18 @@
-img {
+/* profile photo*/
+#img1 {
   width: 160px;
   height: 160px;
   border-radius: 50%;
+}
+
+/* mailto emoji*/
+#img2 {
+  width: 2.5%;
+}
+
+/* paper emoji*/
+#img3 {
+  width: 2%;
 }
 
 /* Whole document: */
@@ -10,7 +21,34 @@ body{
   margin: 100pt; /* Added margin between navbar and body */
 }
 
+/* Adjust font size for years */
+.bigger{
+  font-size:22pt;
+  font-weight:bold;
+}
+
+/* Adjust font size */
+.huge{
+  font-size:28pt;
+  font-weight:bold;
+}
+
+
+/* bold font */
+.boldfont{
+  font-weight:bold;
+}
+
+/* underline */
+.fancy-underline {
+  text-decoration: none;
+  border-bottom: 3px solid rgba(69, 173, 168, 0.5);
+
+}
+
+
 .navbar-brand {
+  margin-top: 45px;
   padding: 0 15px;
   height: 100px;
   line-height: 100px;
@@ -22,6 +60,14 @@ body{
   font-weight: bold;
   /*color: #355C7D !important; */
 }
+
+.navbar-nav a{
+  margin-top: 45px;
+}
+.dropdown-menu a{
+  margin-top: 45px;
+}
+
 
 .navbar.navbar-default {
     background-color: #99ccff;
@@ -36,6 +82,9 @@ body{
     box-shadow: none;
 }
 
+a {
+color: #45ADA8;
+}
 
 
 /* change navigation (about, publication,...) color

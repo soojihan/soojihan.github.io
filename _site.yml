@@ -7,13 +7,6 @@ navbar:
       href: index.html
     - text: "Publications"
       href: publications.html
-  right:
-    - icon: fa-envelope fa-lgrmarkdown::render_site()
-      href: contact.html
-    - icon: fa-github fa-lg
-      href: http://github.com/soojihan
-    - icon: fa-linkedin fa-lg
-      href: https://www.linkedin.com/in/soojihan/
 output:
   html_document:
     bootstrap_version: 4+3
