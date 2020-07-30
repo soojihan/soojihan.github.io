@@ -4,7 +4,7 @@ navbar:
   title: "Sooji Han"
   left:
     - text: "About"
-      href: index.html
+      href: about.html
     - text: "Publications"
       href: publications.html
 output:
