@@ -7,11 +7,13 @@ navbar:
       href: index.html
     - text: "publications"
       href: publications.html
+    - text: "projects"
+      href: projects.html
     - text: "resources"
       href: resources.html
 output:
   html_document:
     bootstrap_version: 4+3
-    theme: materia
+    theme: materi
     css: 'styles.css'
 

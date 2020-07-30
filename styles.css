@@ -15,6 +15,15 @@
   width: 2%;
 }
 
+/* logos */
+#img4 {
+    max-width:100px;
+    max-height:100px;
+    width:auto;
+    height:auto;
+    vertical-align: middle;
+}
+
 /* Whole document: */
 body{
   font-size: 14pt;
@@ -23,14 +32,25 @@ body{
 
 /* Adjust font size for years */
 .bigger{
-  font-size:22pt;
+  font-size:20pt;
   font-weight:bold;
 }
 
 /* Adjust font size */
 .huge{
-  font-size:28pt;
+  font-size:24pt;
   font-weight:bold;
+}
+
+/* project title fontsize */
+.prtitle{
+  font-size:16pt;
+  font-weight:bold;
+}
+
+/* project body fontsize */
+.prbody{
+  font-size:12pt;
 }
 
 
@@ -45,6 +65,7 @@ body{
   border-bottom: 3px solid rgba(69, 173, 168, 0.5);
 
 }
+
 
 
 .navbar-brand {
@@ -86,6 +107,12 @@ body{
 /* hyperlink color */
 a {
 color: #45ADA8;
+}
+
+a:hover {
+  color: #547980;
+  background-color: transparent;
+  text-decoration: none;
 }
 
 

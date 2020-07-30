@@ -1,0 +1,6 @@
+<span class='bigger'>Model</span><br>
+ELMo fine-tuned on the CREDBANK data sets for rumour tweet representation <a href="https://figshare.shef.ac.uk/articles/Credibility_corpus_fine-tuned_ELMo_contextual_language_model_for_early_rumor_detection_on_social_media/11591775"><img src="images/data.png" id='img3'></a><br>
+
+<br>
+<span class='bigger'>Data</span><br>
+Augmented data sets for message-level rumour detection <a href="https://zenodo.org/record/3269768"><img src="images/data.png" id='img3'></a><br>
