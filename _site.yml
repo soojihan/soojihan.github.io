@@ -7,6 +7,8 @@ navbar:
       href: index.html
     - text: "publications"
       href: publications.html
+    - text: "resources"
+      href: resources.html
 output:
   html_document:
     bootstrap_version: 4+3
