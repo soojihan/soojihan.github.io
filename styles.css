@@ -53,6 +53,12 @@ body{
   font-size:12pt;
 }
 
+/* highlight */
+.paperhl{
+  color:#FE4365;
+}
+
+
 
 /* bold font */
 .boldfont{
@@ -113,6 +119,11 @@ a:hover {
   color: #547980;
   background-color: transparent;
   text-decoration: none;
+}
+
+/* hyperlink color */
+#a2 {
+color: #FE4365;
 }
 
 

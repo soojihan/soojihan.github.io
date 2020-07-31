@@ -1,24 +1,24 @@
 <img src="images/profile.jpg" alt="Avatar" align="right" id='img1'>
 
-Research associate in the [Organisations, Information and Knowledge (OAK) group](https://oak-sheffield.weebly.com/),<br> part of the Department of Computer Science of the University of Sheffield in the UK.
+Research associate in the <a href="https://oak-sheffield.weebly.com/" target="_blank">Organisations, Information and Knowledge (OAK) group</a>,<br> part of the Department of Computer Science of the University of Sheffield in the UK.
 
 My interests lie in natural language processing (NLP), NLP for social media,<br> machine learning and data science — particularly, the development of human-like, affective and multimodal dialogue systems that demostrate commonsense reasoning. 
 
-I obtained my PhD degree in computer science from the University of Sheffield<br>under the supervision of [Prof. Fabio Ciravegna](https://staffwww.dcs.shef.ac.uk/people/F.Ciravegna/Fabio_Ciravegna/About.html). I researched the characterisation of<br>rumours and their spreading on social media and rumour detection in the early<br> stages of the diffusion of real-world events.
+I obtained my PhD degree in computer science from the University of Sheffield<br>under the supervision of <a href="https://staffwww.dcs.shef.ac.uk/people/F.Ciravegna/Fabio_Ciravegna/About.html" target="_blank">Prof. Fabio Ciravegna</a>. I researched the characterisation of<br>rumours and their spreading on social media and rumour detection in the early<br> stages of the diffusion of real-world events.
 <br>
 <br>
 <br>
 
 <div>
  <img src="images/mailto.png" id='img2'>
-  <span style="line-height:20px;">&nbsp;[suji.han.x@gmail.com](suji.han.x@gmail.com)</span>
+  <span style="line-height:20px;">&nbsp;<a href="mailto:suji.han.x@gmail.com">suji.han.x@gmail.com</a></span>
 </div>
 <div>
  <img src="images/github.png" id='img2'>
-  <span style="line-height:20px;">&nbsp;[soojihan](http://github.com/soojihan)</span>
+  <span style="line-height:20px;">&nbsp;<a href="http://github.com/soojihan" target="_blank">soojihan</a></span>
 </div>
 <div>
  <img src="images/linkedin.png" id='img2'>
-  <span style="line-height:20px;">&nbsp;[soojihan](ttps://www.linkedin.com/in/soojihan/)</span>
+  <span style="line-height:20px;">&nbsp;<a href="https://www.linkedin.com/in/soojihan/" target="_blank">soojihan</a></span>
 </div>
 
