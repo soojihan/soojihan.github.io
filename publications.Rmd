@@ -14,8 +14,8 @@
  <img src="images/paper.png" id='img3'>
   <span class='boldfont' padding: 10px 20px>&nbsp; Neural language model based training data augmentation for weakly supervised<br>&emsp;&nbsp;&nbsp; early rumour detection</span><br>
   &emsp;&nbsp;&nbsp; <span class="fancy-underline">Sooji Han</span>, Jie Gao, and Fabio Ciravegna<br>
-  &emsp;&nbsp;&nbsp; Presented at <a href="http://asonam.cpsc.ucalgary.ca/2019/" target="_blank">Advances in Social Networks Analysis and Mining (ASONAM)</a><br>
   &emsp;&nbsp;&nbsp; <span class="paperhl">Acceptance rate: 14%</span><br>
+  &emsp;&nbsp;&nbsp; Presented at <a href="http://asonam.cpsc.ucalgary.ca/2019/" target="_blank">Advances in Social Networks Analysis and Mining (ASONAM)</a><br>
   &emsp;&nbsp;&nbsp; <a href="https://arxiv.org/pdf/1907.07033.pdf" target="_blank"><img src="images/pdf.png" id='img3'></a>
 </div>
 <br>
@@ -23,8 +23,8 @@
  <img src="images/paper.png" id='img3'>
   <span class='boldfont' padding: 10px 20px>&nbsp; Data augmentation for rumour detection using context-sensitive neural language<br>&emsp;&nbsp;&nbsp; model with large-scale credibility corpus  </span><br>
   &emsp;&nbsp;&nbsp; <span class="fancy-underline">Sooji Han</span>, Jie Gao, and Fabio Ciravegna<br>
-  &emsp;&nbsp;&nbsp; Presented at <a href="https://iclr.cc/Conferences/2019" target="_blank">International Conference on Learning Representations (ICLR)</a> workshop<br>&emsp;&nbsp;&nbsp; on <a href="https://lld-workshop.github.io/" target="_blank">Learning from Limited Labeled Data (LLD)</a><br>
   &emsp;&nbsp;&nbsp; <span class="paperhl">Spotlight</span><br>
+  &emsp;&nbsp;&nbsp; Presented at <a href="https://iclr.cc/Conferences/2019" target="_blank">International Conference on Learning Representations (ICLR)</a> workshop<br>&emsp;&nbsp;&nbsp; on <a href="https://lld-workshop.github.io/" target="_blank">Learning from Limited Labeled Data (LLD)</a><br>
   &emsp;&nbsp;&nbsp; <a href="https://openreview.net/pdf?id=SyxCysRNdV" target="_blank"><img src="images/pdf.png" id='img3'></a>
 </div>
 <br>
