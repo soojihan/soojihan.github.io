@@ -18,8 +18,16 @@ The aim is to study whether identifying rumours before they go viral is possible
 &emsp;2. enormous amounts of noisy data<br>
 &emsp;3. the limited availability of context in message-level ERD<br>
 
-<span class='prbody'>It also uncovers a research gap between system design and its applications in the real world, which have received less attention from the research community of ERD. </span>
+<span class='prbody'>Figure 1 visualises an overview of research design for addressing the bottlenecks introduced above.</span>
+
+<span class='prbody'>This project also uncovers a research gap between system design and its applications in the real world, which have received less attention from the research community of ERD. </span>
 </span>
+
+<figure>
+  <img src="images/overview.png" alt="Project overview">
+  <figcaption><span class='prbody'><span class='boldfont'>Figure 1:</span> Project overview</span>
+</figure>
+
 
 <br>
 <span class='prtitle'><a href="https://www.mobilise-d.eu/" target="_blank">Mobilise-D</a>: connecting digital mobility assessment to clinical outcomes for<br>regulatory and clinical endorsement</span>

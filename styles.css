@@ -24,6 +24,21 @@
     vertical-align: middle;
 }
 
+/* overview*/
+#img5 {
+  width: 60%;
+}
+
+.caption {
+    width: 200px;
+    text-align: center;
+}
+
+figcaption {
+    margin: 10px 0;  /* ADD Me */
+    text-align: center;   /* ADD Me */
+}
+
 /* Whole document: */
 body{
   font-size: 14pt;
