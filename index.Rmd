@@ -14,11 +14,14 @@ I obtained my PhD degree in computer science from the University of Sheffield<br
   <span style="line-height:20px;">&nbsp;<a href="mailto:suji.han.x@gmail.com">suji.han.x@gmail.com</a></span>
 </div>
 <div>
+ <img src="images/gscholar.png" id='img2'>
+  <span style="line-height:20px;">&nbsp;<a href="https://scholar.google.co.uk/citations?user=GUjlKgcAAAAJ&hl=en" target="_blank">Google scholar</a></span>
+</div>
+<div>
  <img src="images/github.png" id='img2'>
-  <span style="line-height:20px;">&nbsp;<a href="http://github.com/soojihan" target="_blank">soojihan</a></span>
+  <span style="line-height:20px;">&nbsp;<a href="http://github.com/soojihan" target="_blank">GitHub</a></span>
 </div>
 <div>
  <img src="images/linkedin.png" id='img2'>
-  <span style="line-height:20px;">&nbsp;<a href="https://www.linkedin.com/in/soojihan/" target="_blank">soojihan</a></span>
+  <span style="line-height:20px;">&nbsp;<a href="https://www.linkedin.com/in/soojihan/" target="_blank">LinkedIn</a></span>
 </div>
-
