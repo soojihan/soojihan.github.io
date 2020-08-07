@@ -11,9 +11,12 @@ navbar:
       href: projects.html
     - text: "resources"
       href: resources.html
+
 output:
   html_document:
     bootstrap_version: 4+3
     theme: materi
     css: 'styles.css'
+    
+
 
