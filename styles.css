@@ -2,6 +2,9 @@
     width:76%;
 }
 
+#div3 {
+    width:80%;
+}
 /* profile photo*/
 #img1 {
   width: 160px;
@@ -16,8 +19,10 @@
 
 /* paper emoji*/
 #img3 {
-  width: 2%;
+  width: 3%;
 }
+
+
 
 /* logos */
 #img4 {
@@ -31,6 +36,11 @@
 /* overview*/
 #img5 {
   width: 60%;
+}
+
+/* resource emoji*/
+#img6 {
+  width: 2%;
 }
 
 .caption {
