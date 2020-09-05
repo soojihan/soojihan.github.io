@@ -55,7 +55,7 @@ figcaption {
 /* Whole document: */
 body{
   font-size: 14pt;
-  margin: 150pt; /* Added margin between navbar and body */
+  margin: 200pt; /* Added margin between navbar and body */
 }
 
 /* Adjust font size for years */
