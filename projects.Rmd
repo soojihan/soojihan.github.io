@@ -8,10 +8,15 @@
 <span class='huge'>Current projects</span><br>
 
 
-<span class='prtitle'>Short text topic modelling for Requests for Information (RFIs) in the domain of defence against maritime piracy</span> 
+<span class='prtitle'>Short text topic modelling for Requests for Information (RFIs) in the domain of defence against maritime piracy (£20K)</span> 
 
 <span class='prbody'>
-More details will be shared soon!
+This project is funded by one of the UK government agencies, the Defence Science and Technology Laboratory. More details will be shared soon!
+
+<span class='prtitle'>Bot/Cyborg detection (£10k)</span> 
+
+<span class='prbody'>
+This project is funded by one of the UK government agencies, the Defence Science and Technology Laboratory. More details will be shared soon!
 
 <!-- This project was launched at University Technology Centre in AI for Defence and Security, which is funded by one of the UK government agencies, the Defence Science and Technology Laboratory. -->
 
