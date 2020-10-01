@@ -6,7 +6,7 @@
 Research associate in the <a href="https://oak-sheffield.weebly.com/" target="_blank">Organisations, Information and Knowledge (OAK) group</a>, part of the Department of Computer Science of the University of Sheffield in the UK.
 
 
-My interests lie in natural language processing (NLP), NLP for social media, machine learning and data science — particularly, the development of human-like, affective and multimodal dialogue systems that demostrate commonsense reasoning. 
+My interests lie in natural language processing (NLP), NLP for social media, human-centred computing, machine learning and data science. In particular, my future research goals and interests are the development of human-like, affective and multimodal dialogue systems and their applications in the real world to benefit humanity.
 
 I obtained my PhD degree in computer science from the University of Sheffield under the supervision of <a href="https://staffwww.dcs.shef.ac.uk/people/F.Ciravegna/Fabio_Ciravegna/About.html" target="_blank">Prof. Fabio Ciravegna</a>. I researched the characterisation of rumours and their spreading on social media and rumour detection in the early stages of the diffusion of real-world events.
 </div>
